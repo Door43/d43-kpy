@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpy:home|Door43 (kpy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpy|d43-kpy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpy/archive/master.zip|d43-kpy.zip]]
+
+**Recent Changes**
+{{changes>ns = kpy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpy|Ethnologue data]]
+
